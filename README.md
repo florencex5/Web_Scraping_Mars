@@ -3,7 +3,7 @@
 ## Task
 Use Splinter(automated browsing) and Beautiful Soup(HTML parsing) to visit the provided Mars News Site and inspect the page to identify which elements to scrape per requirements
 - Part I: Scrape titles and preview text from Mars News
-- Part II: Scrape and analyze Mars Weather Data (E.g. Data visualisation, 
+- Part II: Scrape and analyze Mars Weather Data (E.g. Data visualization, Pandas DataFrame) 
 
 ## Tools
 
